@@ -1,0 +1,2 @@
+import { PolicyShell } from '@/components/policy-shell'
+export default function Page(){return <PolicyShell><div className='p-6 capitalize'>reviews</div></PolicyShell>}
